@@ -7,7 +7,7 @@ https://openclassrooms.com/projects/ameliorer-un-projet-existant-1
 ## Analysis
 
 #### Backend
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c5ffdcd6a7f94793a62d9fc54efe5409)](https://www.codacy.com/gh/bigboss-oualid/project_8/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bigboss-oualid/project_8&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb48f9269017492e9b1aca3ffef8a81a)](https://www.codacy.com/gh/bigboss-oualid/project_8_mvp/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=bigboss-oualid/project_8_mvp&amp;utm_campaign=Badge_Grade)
 [![Maintainability](https://api.codeclimate.com/v1/badges/2e70b303cb799c405dea/maintainability)](https://codeclimate.com/github/bigboss-oualid/project_8_mvp/maintainability)
 
 [![Blackfire](https://img.shields.io/badge/Blackfire-v1.24.1-E03C31)](https://blackfire.io)
